@@ -15,7 +15,7 @@
 
 I am looking for internship opportunities in roles similar to data analytics starting from August 2023.
 
-Extras: :dog: The cute dog profile picture was created by Dall-E2 :robot:
+Extras:  The cute :dog: profile picture was created by Dall-E2 :robot:
 
 <div id="badges", div align="center">
   <a href="www.linkedin.com/in/haoran">
