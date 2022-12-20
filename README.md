@@ -1,6 +1,5 @@
 - 👋 Hi, my name is Hao Ran and this is my profile
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in all things tech 
 - 📫 You can reach me at then_hr@hotmail.com
 
 <!---
