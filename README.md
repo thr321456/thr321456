@@ -11,14 +11,14 @@
 
 :zap: In my free time, I enjoy cooking:bowl_with_spoon: and playing snooker:8ball:. 
 
-📫 Feel free to reach me @ [![Linkedin Badge](https://img.shields.io/badge/-ThenHaoRan-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/haorant)
+📫 Feel free to reach me @ [![Linkedin Badge](https://img.shields.io/badge/-ThenHaoRan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haorant)
 
 I am looking for internship opportunities in roles similar to data analytics starting from August 2023.
 
 Extras:  The cute :dog: profile picture was created by Dall-E2 :robot:
 
 <div id="badges", div align="center">
-  <a href="www.linkedin.com/in/haoran">
+  <a href="https://www.linkedin.com/in/haorant">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.kaggle.com/thr32145">
